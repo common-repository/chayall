@@ -1,0 +1,61 @@
+# Copyright (C) 2020 Greenbureau
+# This file is distributed under the same license as the ChayAll plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: ChayAll 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/chayall\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-07-09T14:39:33+02:00\n"
+"PO-Revision-Date: 2020-07-09 14:51+0200\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Domain: chayall\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr_FR\n"
+
+#. Plugin Name of the plugin
+msgid "ChayAll"
+msgstr "ChayAll"
+
+#. Plugin URI of the plugin
+msgid "https://chayall.com/"
+msgstr "https://chayall.fr/"
+
+#. Description of the plugin
+msgid "Boost your sales and your customer relationship thanks to messaging. Integrate WhatsApp Business, Messenger, Apple Business Chat and Google's Business Messages on your site"
+msgstr "Augmentez  vos ventes et votre relation client grâce au messaging. Intégrez WhatsApp Business, Messenger, Apple Business Chat et Google's Business Messages sur votre site"
+
+#. Author of the plugin
+msgid "Greenbureau"
+msgstr "Greenbureau"
+
+#. Author URI of the plugin
+msgid "https://corp.greenbureau.com/"
+msgstr "https://corp.greenbureau.com/"
+
+#: chayall.php:60
+msgid "API Key"
+msgstr "Clé API"
+
+#: chayall.php:66
+msgid "https://app.chayall.fr"
+msgstr "https://app.chayall.fr"
+
+#: chayall.php:67
+msgid "To get started, log on to <a href=\"%s\" target=\"_blank\">ChayAll</a>:"
+msgstr "Pour commencer, connectez-vous à <a href=\"%s\" target=\"_blank\">ChayAll</a> :"
+
+#: chayall.php:70
+msgid "Go to the Messaging page"
+msgstr "Rendez-vous sur la page Messageries"
+
+#: chayall.php:71
+msgid "Go to the \"Embed on your website\" and choose WordPress as the embed method"
+msgstr "Allez dans la partie \"Intégrer sur votre site\" et choisissez WordPress en méthode d'intégration"
+
+#: chayall.php:72
+msgid "Copy the API key and paste it below"
+msgstr "Copier la clé API et collez-la ci-dessous"
